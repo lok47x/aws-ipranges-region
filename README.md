@@ -13,3 +13,5 @@ Example:
 region = 'us-west-2'
 region = 'us-east-1
 region = 'ap-northeast-2'
+
+'''python3 aws_ipranges.py'''
