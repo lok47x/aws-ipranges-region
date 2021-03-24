@@ -10,8 +10,7 @@ Region Names can be found here: https://docs.aws.amazon.com/AmazonRDS/latest/Use
 To get the IPs of the region, change the value of region variable
 
 Example:
-region = 'us-west-2'
-region = 'us-east-1
+To get the regions in Asia Pacific Seoul, set the variable to:
 region = 'ap-northeast-2'
 
 ```python
